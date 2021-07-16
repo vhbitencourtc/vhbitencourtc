@@ -4,7 +4,7 @@
 <p aligh="left"> <img src="https://komarev.com/ghpvc/?username=vhbitencourtc&color=blue" alt="vhbitencourt"/></p>✨
 
 <h3>I’m currently learning  HTML, CSS, JavaScrip e Node.JS .</h3>
-AiFillHtml5
+<p aligh="left"><img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="html5" widht="40" height="40" /><img src="https://maxcdn.icons8.com/Share/icon/Logos/css31600.png" alt="css3" widht="40" height="40" /><img src="https://clipartart.com/images/javascript-icon-clipart-6.png" alt="javascript" widht="40" height="40" /><img src="https://th.bing.com/th/id/R.f5d8e6aecfb22f80bfcc92dc54e056c9?rik=rmMBZDa%2fbRIM9w&pid=ImgRaw" alt="node.js" widht="40" height="40" /></p>
 
 
 
