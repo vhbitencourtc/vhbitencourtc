@@ -10,6 +10,11 @@
 <p align="left"><a href="https://www.linkedin.com/in/vhbitencourtc/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedin" widht="50" height="50"/><a/> <a href="https://www.instagram.com/vhbitencourtc/" target="_blank"> <img src="https://th.bing.com/th/id/R.26d9974a1feec9905a4e0d5e5ddf8db6?rik=ycoXFwG5Udz08A&pid=ImgRaw" alt="instagram" widht="50" height="50"/><a/> <a href="https://twitter.com/vhbitencourtc" target="_blank"> <img src="https://imagepng.org/wp-content/uploads/2018/08/twitter-icone.png" alt="twitter" widht="50" height="50"/><a/> <a href="https://www.facebook.com/vhbitencourtc" target="_blank"><img src="https://1.bp.blogspot.com/-E7Q8QGQi8jU/WImcvZPvYQI/AAAAAAAACTw/0Er2C5lpPrkRx_JMFTMU0ifRdjS3e4XJQCLcB/s1600/VEKTOR%2BICON7.png" alt="facebook" widht="50" height="50"/><a/></p>
 
 
+  <h2 align="down">👽️Do you consider yourself Nerd or Geek? If so, follow us here too:📱</h2>
+  <p align="down"><a href="https://www.instagram.com/lojageekofthrones/" target="_blank"> <img src="https://www.bing.com/images/blob?bcid=TrF7bmmn4fwCnAkUoxko9k9hYmAL.....zA" alt="lojageekofthrones" widht="50" height="50"/></a>
+  
+  </p>
+
 <!--
 **vhbitencourtc/vhbitencourtc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +23,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
