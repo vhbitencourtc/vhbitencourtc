@@ -1,7 +1,12 @@
 <h1 align="center">Hello, I'm Victor Hugo Bitencourt Coutinho🚀</h1>
 <h3 aligh="center">🔭I’m currently working on Cencosud S.A. as a Full Systems Technician.</h3>
 
-<p aligh="left"> <img src="https://komarev.com/ghpvc/?username=vhbitencourtc&color=blue" alt="vhbitencourt"/></p>
+<p aligh="left"> <img src="https://komarev.com/ghpvc/?username=vhbitencourtc&color=blue" alt="vhbitencourt"/></p>✨
+
+<h3>I’m currently learning  HTML, CSS, JavaScrip e Node.JS .</h3>
+AiFillHtml5
+
+
 
 <!--
 **vhbitencourtc/vhbitencourtc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
