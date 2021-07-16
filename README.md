@@ -11,7 +11,7 @@
 
 
   <h2 align="down">👽️Do you consider yourself Nerd or Geek? If so, follow us here too:📱</h2>
-  <p align="down"><a href="https://www.instagram.com/lojageekofthrones/" target="_blank"> <img src="https://www.bing.com/images/blob?bcid=TrF7bmmn4fwCnAkUoxko9k9hYmAL.....zA" alt="lojageekofthrones" widht="50" height="50"/></a>
+  <p align="down"><a href="https://www.instagram.com/lojageekofthrones/" target="_blank"> <img src="https://th.bing.com/th/id/OIP.-U1CxbymBllfbJD78-ZKCgAAAA?pid=ImgDet&rs=1" alt="lojageekofthrones" widht="50" height="50"/></a>
   
   </p>
 
