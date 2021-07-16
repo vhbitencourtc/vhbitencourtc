@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Victor Hugo Bittencourt🚀</h1>
 <h3 aligh="center">🔭I’m currently working on Cencosud S.A. as a Full Systems Technician.</h3>
 
-<p aligh="left"> <img scr="https://komarev.com/ghpvc/?username=vhbitencourtce&color=blue" alt="vhbitencourtc" /></p>
+<p aligh="left"> <img scr="https://komarev.com/ghpvc/?username=vhbitencourtc&color=blue" alt="vhbitencourtc" /></p>
 
 <!--
 **vhbitencourtc/vhbitencourtc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
