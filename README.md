@@ -11,6 +11,8 @@
 <a href="#" target="_blank"><img src="https://1.bp.blogspot.com/-sqAjIvOtpXI/XYoCmqOyMwI/AAAAAAAAJig/CowR8wgEauEs-RXN2IPmLYkC7NHoHuA3gCLcBGAsYHQ/s1600/node-js-logo.png" alt="node.js" widht="50" height="50"/></a>
 <a href="#" target="_blank"><img src="https://th.bing.com/th/id/R.1f27d28017b7708d3f46fd8d1af4a383?rik=r7M8QVqKuyXS6Q&pid=ImgRaw&r=0" alt="react.js" widht="50" height="50"/></a>
 <a href="#" target="_blank"><img src="https://th.bing.com/th/id/R.f76e96382d4af45dca50e55aedc606f0?rik=XuF5tZ%2flyp2B4w&pid=ImgRaw&r=0" alt="typescript" widht="50" height="50"/></a>
+<a href="#" target="_blank"><img src="https://th.bing.com/th/id/R.d4a45af5c326050a0cab23c13f3db886?rik=NRpiTfQnHsC8XQ&pid=ImgRaw&r=0" alt="github" widht="50" height="50"/></a>
+<a href="#" target="_blank"><img src="https://th.bing.com/th/id/R.ba99c6380675d605096b68cf8d931aa3?rik=sK28crT778NFrQ&riu=http%3a%2f%2freact-school.com%2fimages%2fes6_logo.png&ehk=EM1T29FGGVJNNJ33tTfX7LW4osrmb4RIp3hOInsJZOY%3d&risl=&pid=ImgRaw&r=0" alt="es6" widht="50" height="50"/></a>
 </p>
 
 <h2 align="left"><strong>📱Siga-me os bons(amo essa frase do Chapolin Colorado):</strong></h2>
