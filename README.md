@@ -1,5 +1,4 @@
 <h1 align="center">Hi! Sou Victor Hugo Bitencourt Coutinho🚀</h1>
-<h3 align="center">🔭Sou Analista de Sistemas na Cencosud S. A.</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=vhbitencourtc&color=blue" alt="vhbitencourt"/></p>
 
